@@ -5,16 +5,17 @@
 <img src="https://img.shields.io/badge/made%20by-jwieland2-blue.svg">
 </p>
 
-<h2>Usage</h2>
+
+#Usage
 1. Run init.c on boot
 2. Schedule daily.c via crontab
 
-<h2>Details</h2>
+#Details
 Home automation via headless Raspberry Pi. In a house with a well on the property, this system will one day hopefully save all the plants from dying when left unattended over the course of a mediterranean summer. An ultrasonic sensor measures the water level of a cistern and a 2-channel relay controls the well pump and the 24V-supply of a magnetic valve that leads to an irrigation system.
 
 Progress is slow unfortunately, because my time to tinker with it on site is very limited.
 
-<h2>ToDo</h2>
+#ToDo
 1. Add schematic of the whole system
 2. Add module specs of sensor and relay
 3. Make it prettier and move hardcoded values to preprocessor or args
