@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
 <img src="https://img.shields.io/badge/made%20by-jwieland2-blue.svg">
 </p>
+
 #Usage
 1. Run init.c on boot
 2. Schedule daily.c via crontab
